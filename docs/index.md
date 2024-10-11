@@ -1,6 +1,6 @@
 A cyber security research 
 project at [University of Edinburgh's School of Informatics][informatics]
-with a range of past and present collaborators including Einburgh Parallel Computing Centre][epcc],
+with a range of past and present collaborators including [Edinburgh Parallel Computing Centre][epcc],
 [British Telecom Labs in Adastral Park][BT],
 [Norwegian Defence Research Establishment (FFI)][FFI]
 and 
@@ -46,12 +46,13 @@ Wei Chen, Alex Healing, Nikola Pavlov, Chenghao Ye.
 ## Publications and presentations
 
 * *Bad Design Smells in Benchmark NIDS Datasets*, Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024.
+   * [Slides](pubs/BadSmells-EuroSP24-slides.pdf)
 
-* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
+* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.  *(Distinguished paper award)*)
 
 * *Challenges in Learning from Behaviour*, invited talk, 
   [AI-CyberSec 2021 Workshop](https://sites.google.com/view/ai-cybersec-2021/home).
-  David Aspinall (with Henry Clausen and Robert Flood).
+  David Aspinall (with contributions from Henry Clausen and Robert Flood).
    * [Slides](pubs/AI-CyberSec-2021-Keynote.pdf)
 
 * *Controlling network traffic microstructures for machine-learning model probing*. Henry Clausen, Robert Flood, and David Aspinall. 17th EAI International Conference on Security and Privacy in Communication Networks ([SecureComm 2021](https://securecomm.eai-conferences.org/2021/)), September 2021
