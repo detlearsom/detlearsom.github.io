@@ -1,7 +1,6 @@
 A cyber security research 
 project at [University of Edinburgh's School of Informatics][informatics]
 with a range of collaborators.
-
 We are working on AI and machine learning methods for network
 intrusion detection, based on approximate models of software built
 from low-level traces.
@@ -12,11 +11,9 @@ from low-level traces.
 [ATI]: https://www.turing.ac.uk
 [FFI]: https://www.ffi.no/en
 
-Please contact [David Aspinall][david], PI for any further information.
-
 ## People
 
-* [David Aspinall][david], [Informatics][informatics], University of Edinburgh
+* [David Aspinall][david], [Informatics][informatics], University of Edinburgh (main contact)
 * [Robert Flood][rob], Informatics, University of Edinburgh
 * [Gudmund Grov][gudmund], [Norwegian Defence Research Establishment][FFI] (FFI)
 
