@@ -54,10 +54,10 @@ and
 
 ## Publications and presentations
 
-* *Bad Design Smells in Benchmark NIDS Datasets*, Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024.
+* *Bad Design Smells in Benchmark NIDS Datasets*, Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024. *(Distinguished paper award)*)
    * [Slides](pubs/BadSmells-EuroSP24-slides.pdf)
 
-* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.  *(Distinguished paper award)*)
+* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
 
 * *Challenges in Learning from Behaviour*, invited talk, 
   [AI-CyberSec 2021 Workshop](https://sites.google.com/view/ai-cybersec-2021/home).
