@@ -1,19 +1,10 @@
 A cyber security research 
 project at [University of Edinburgh's School of Informatics][informatics]
-with a range of past and present collaborators including [Edinburgh Parallel Computing Centre][epcc],
-[British Telecom Labs in Adastral Park][BT],
-[Norwegian Defence Research Establishment (FFI)][FFI]
-and 
-[The Alan Turing Institute][ATI].
+with a range of collaborators.
 
-*By combining methods from machine learning and formal verification,
-we plan to learn precise semantic models of software and
-devices which describe normal traffic patterns and logging
-behaviours. Then anomalous, potentially malicious behaviours stand
-out as being different to these learned behaviours.  The eventual
-aim is to build an adaptive anomaly detection framework, to raise
-alarms to help manage and automatically configure application-level
-firewalls.*
+We are working on AI and machine learning methods for network
+intrusion detection, based on approximate models of software built
+from low-level traces.
 
 [informatics]:  http://www.ed.ac.uk/informatics/
 [epcc]:  https://www.epcc.ed.ac.uk/
@@ -25,21 +16,28 @@ Please contact [David Aspinall][david], PI for any further information.
 
 ## People
 
-* [David Aspinall][david], Informatics, University of Edinburgh
-* [Henry Clausen][henry], Informatics, University of Edinburgh
+* [David Aspinall][david], [Informatics][informatics], University of Edinburgh
 * [Robert Flood][rob], Informatics, University of Edinburgh
-* [Michael Gibson][michael], BT Labs
-* [Gudmund Grov][gudmund], Norwegian Defence Research Establishment (FFI)
+* [Gudmund Grov][gudmund], [Norwegian Defence Research Establishment][FFI] (FFI)
 
 Thanks to other contributors and colleagues, including: 
 Wei Chen, 
+[Henry Clausen][henry], 
 Lieven Desmet,
 Gints Engelen,
 Alex Healing, 
+[Michael Gibson][michael],
 Nikola Pavlov,
 Vera Rimmer,
 Marc Sabaté,
 Chenghao Ye.
+
+Thanks to funders and other supporters including
+[Arm](https://www.arm.com),
+[Edinburgh Parallel Computing Centre][epcc],
+[British Telecom Labs in Adastral Park][BT],
+and 
+[The Alan Turing Institute][ATI].
 
 [marc]: https://www.epcc.ed.ac.uk/about/staff/mr-marc-sabate
 [gudmund]: https://sites.google.com/site/gudmundgrov/home
