@@ -8,7 +8,7 @@ from low-level traces.
 
 [informatics]:  http://www.ed.ac.uk/informatics/
 [epcc]:  https://www.epcc.ed.ac.uk/
-[BT]: http://www.btplc.com/Innovation/
+[BT]: https://atadastral.co.uk/
 [ATI]: https://www.turing.ac.uk
 [FFI]: https://www.ffi.no/en
 
