@@ -21,7 +21,7 @@ firewalls.*
 [ATI]: https://www.turing.ac.uk
 [FFI]: https://www.ffi.no/en
 
-Please contact [David Aspinall][david], PI for further information.
+Please contact [David Aspinall][david], PI for any further information.
 
 ## People
 
@@ -30,10 +30,16 @@ Please contact [David Aspinall][david], PI for further information.
 * [Robert Flood][rob], Informatics, University of Edinburgh
 * [Michael Gibson][michael], BT Labs
 * [Gudmund Grov][gudmund], Norwegian Defence Research Establishment (FFI)
-* [Marc Sabaté][marc], EPCC, University of Edinburgh
 
-Thanks to other contributors, including: 
-Wei Chen, Alex Healing, Nikola Pavlov, Chenghao Ye.
+Thanks to other contributors and colleagues, including: 
+Wei Chen, 
+Lieven Desmet,
+Gints Engelen,
+Alex Healing, 
+Nikola Pavlov,
+Vera Rimmer,
+Marc Sabaté,
+Chenghao Ye.
 
 [marc]: https://www.epcc.ed.ac.uk/about/staff/mr-marc-sabate
 [gudmund]: https://sites.google.com/site/gudmundgrov/home
@@ -41,6 +47,11 @@ Wei Chen, Alex Healing, Nikola Pavlov, Chenghao Ye.
 [henry]: https://www.linkedin.com/in/hc2116/
 [rob]: http://www.inf.ed.ac.uk/people/students/Robert_Flood.html
 [michael]: https://www.linkedin.com/in/michael-gibson-b46a3b100
+
+## Software
+
+* [DetGen](https://github.com/detlearsom/detgen): low-level synthetic network traffic generation (2019-)
+* WhiffSuite: heuristics for measuring network data for NIDS research (coming soon)
 
 
 ## Publications and presentations
@@ -80,6 +91,6 @@ San Juan, December 2019.
     * [Slides](pubs/Talk_ACSAC_DYNAMICS.pdf)
 * *A Data-driven Toolset Using Containers to Generate Datasets for Network Intrusion Detection*.  Robert Flood, MSc thesis 2019.
     * [MSc thesis, University of Edinburgh](pubs/msc_robert_flood_2019.pdf)
-* *Towards Intelligible Robust Anomaly Detection by Learning Interpretable Behavioural Models*.  Gudmund Grov, Marc Sabate, Wei Chen, and David Aspinall, 
+* *Towards Intelligible Robust Anomaly Detection by Learning Interpretable Behavioural Models*.  Gudmund Grov, Marc Sabaté, Wei Chen, and David Aspinall, 
 [Norwegian Information Security Conference](https://ojs.bibsys.no/index.php/NISK/issue/view/NISK2019), NISK 2019, Narvik, November 2019.
     * [Authors' PDF](pubs/NISK19.pdf)
