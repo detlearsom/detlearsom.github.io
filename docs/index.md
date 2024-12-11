@@ -55,6 +55,7 @@ and
    * [Slides](pubs/BadSmells-EuroSP24-slides.pdf)
 
 * *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
+   * [Paper](WTMC-2024.pdf)
 
 * *Challenges in Learning from Behaviour*, invited talk, 
   [AI-CyberSec 2021 Workshop](https://sites.google.com/view/ai-cybersec-2021/home).
@@ -67,7 +68,7 @@ and
 
 * *Examining traffic microstructures to improve model development*. Henry Clausen and David Aspinall. 2021 IEEE Security and Privacy Workshops ([SPW](https://www.ieee-security.org/TC/SP2021/workshops.html)), May 2021
    * [Authors' PDF](pubs/computers-10-00079-v2)
-   * [Slides](pubs/WTMC.pdf)
+   * [Slides](pubs/WTMC-2021-slides.pdf)
 
 * *CBAM: A Contextual Model for Network Anomaly Detection*. Henry Clausen, Gudmund Grov, and David Aspinall. MDPI Computers 2021 ([MDPI](https://www.mdpi.com/journal/computers)), June 2021
    * [Authors' PDF](pubs/Examining_traffic_microstructures_to_improve_model_development.pdf)  
