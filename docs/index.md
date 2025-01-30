@@ -17,7 +17,7 @@ from low-level traces.
 * [Robert Flood][rob], Informatics, University of Edinburgh
 * [Gudmund Grov][gudmund], [Norwegian Defence Research Establishment][FFI] (FFI)
 
-Thanks to other contributors and colleagues, including: 
+Previous contributors and colleagues include: 
 Wei Chen, 
 [Henry Clausen][henry], 
 Lieven Desmet,
@@ -32,7 +32,7 @@ Chenghao Ye.
 Thanks to funders and other supporters including
 [Arm](https://www.arm.com),
 [Edinburgh Parallel Computing Centre][epcc],
-[British Telecom Labs in Adastral Park][BT],
+[British Telecom Labs in Adastral Park][BT]
 and 
 [The Alan Turing Institute][ATI].
 
