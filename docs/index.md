@@ -51,7 +51,11 @@ and
 
 ## Publications and presentations
 
+* *Formally Verifying Robustness and Generalisation of Network Intrusion Detection Models*, Robert Flood, Marco Casadio, David Aspinall and Ekaterina Komendantskaya.  ACM Symposium on Applied Computing (SAC), Security Track, SEC@SAC25, March 2025.
+   * *coming soon*
+
 * *Bad Design Smells in Benchmark NIDS Datasets*, Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024. *(Distinguished paper award)*
+   * [Authors' PDF](pubs/BadSmells-EuroSP24-finaldraft.pdf)
    * [Slides](pubs/BadSmells-EuroSP24-slides.pdf)
 
 * *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
