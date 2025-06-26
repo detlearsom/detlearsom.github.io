@@ -48,7 +48,7 @@ our own School of Informatics.
 ## Software
 
 * [DetGen](https://github.com/detlearsom/detgen): low-level synthetic network traffic generation (2019-)
-* [WhiffSuite](https://github.com/detlearsom/WhiffSuite): heuristics for measuring network data for NIDS research
+* [WhiffSuite](https://github.com/detlearsom/WhiffSuite): heuristics for measuring network data for NIDS research (2024-)
 
 
 ## Publications and presentations
