@@ -46,7 +46,7 @@ and
 ## Software
 
 * [DetGen](https://github.com/detlearsom/detgen): low-level synthetic network traffic generation (2019-)
-* WhiffSuite: heuristics for measuring network data for NIDS research (coming soon)
+* [WhiffSuite](https://github.com/detlearsom/WhiffSuite): heuristics for measuring network data for NIDS research
 
 
 ## Publications and presentations
