@@ -1,4 +1,4 @@
-A cyber security research 
+An ongoing cyber security research 
 project at [University of Edinburgh's School of Informatics][informatics]
 with a range of collaborators.
 We are working on AI and machine learning methods for network
@@ -17,7 +17,7 @@ from low-level traces.
 * [Robert Flood][rob], Informatics, University of Edinburgh
 * [Gudmund Grov][gudmund], [Norwegian Defence Research Establishment][FFI] (FFI)
 
-Previous contributors and colleagues include: 
+Previous contributors, colleagues, collaborators and advising experts include: 
 Wei Chen, 
 [Henry Clausen][henry], 
 Lieven Desmet,
@@ -27,14 +27,16 @@ Alex Healing,
 Nikola Pavlov,
 Vera Rimmer,
 Marc Sabaté,
-Chenghao Ye.
+Hugo Vincent,
+Chenghao Ye,
+Stuart Wray.
 
 Thanks to funders and other supporters including
 [Arm](https://www.arm.com),
 [Edinburgh Parallel Computing Centre][epcc],
-[British Telecom Labs in Adastral Park][BT]
-and 
-[The Alan Turing Institute][ATI].
+[British Telecom Labs in Adastral Park][BT],
+[The Alan Turing Institute][ATI] and
+our own School of Informatics.
 
 [marc]: https://www.epcc.ed.ac.uk/about/staff/mr-marc-sabate
 [gudmund]: https://sites.google.com/site/gudmundgrov/home
