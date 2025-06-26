@@ -63,6 +63,9 @@ our own School of Informatics.
 * *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
    * [Paper](WTMC-2024.pdf)
 
+* *Traffic Microstructures and Network Anomaly Detection*, Henry Clausen.  University of Edinburgh PhD thesis, 2022.
+   * [PhD thesis](https://era.ed.ac.uk/handle/1842/38806)
+
 * *Challenges in Learning from Behaviour*, invited talk, 
   [AI-CyberSec 2021 Workshop](https://sites.google.com/view/ai-cybersec-2021/home).
   David Aspinall (with contributions from Henry Clausen and Robert Flood).
