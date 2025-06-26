@@ -3,7 +3,8 @@ project at [University of Edinburgh's School of Informatics][informatics]
 with a range of collaborators and students.
 We are working on AI and machine learning methods for network
 intrusion detection, based on approximate models of software built
-from low-level traces.
+from low-level traces.  Recent work includes verification methods
+to provide guarantees of robustness.
 
 [informatics]:  http://www.ed.ac.uk/informatics/
 [epcc]:  https://www.epcc.ed.ac.uk/
