@@ -46,6 +46,7 @@ our own School of Informatics.
 [rob]: http://www.inf.ed.ac.uk/people/students/Robert_Flood.html
 [michael]: https://www.linkedin.com/in/michael-gibson-b46a3b100
 
+
 ## Software
 
 * [DetGen](https://github.com/detlearsom/detgen): low-level synthetic network traffic generation (2019-)
@@ -54,17 +55,20 @@ our own School of Informatics.
 
 ## Publications and presentations
 
-* *Formally Verifying Robustness and Generalisation of Network Intrusion Detection Models*, Robert Flood, Marco Casadio, David Aspinall and Ekaterina Komendantskaya.  ACM Symposium on Applied Computing (SAC), Security Track, SEC@SAC25, March 2025.
+* *Enhancing Trust in NIDS: From Flawed Benchmarks to Formal Guarantees*.  Robert Flood. PhD thesis, University of Edinburgh, 2025.
+   * [PhD thesis](pubs/phd_robert_flood_2025.pdf)
+
+* *Formally Verifying Robustness and Generalisation of Network Intrusion Detection Models*. Robert Flood, Marco Casadio, David Aspinall and Ekaterina Komendantskaya.  ACM Symposium on Applied Computing (SAC), Security Track, SEC@SAC25, March 2025.
    * [Authors' PDF](pubs/SAC-NIDS-verifying.pdf)
 
-* *Bad Design Smells in Benchmark NIDS Datasets*, Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024. *(Distinguished paper award)*
+* *Bad Design Smells in Benchmark NIDS Datasets*. Robert Flood, Gints Engelen, David Aspinall, Lieven Desmet. 9th IEEE European Symposium on Security and Privacy ([Euro S&P](https://eurosp2024.ieee-security.org)), July 2024. *(Distinguished paper award)*
    * [Authors' PDF](pubs/BadSmells-EuroSP24-finaldraft.pdf)
    * [Slides](pubs/BadSmells-EuroSP24-slides.pdf)
 
-* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*, Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
+* *Measuring the Complexity of Benchmark NIDS Datasets via Spectral Analysis*. Robert Flood and David Aspinall. 9th International Workshop on Traffic Measurements for Cybersecurity ([WTMC 2024](https://wtmc.info/index.html)), July 2024.
    * [Paper](WTMC-2024.pdf)
 
-* *Traffic Microstructures and Network Anomaly Detection*, Henry Clausen.  University of Edinburgh PhD thesis, 2022.
+* *Traffic Microstructures and Network Anomaly Detection*, Henry Clausen.  PhD thesis, University of Edinburgh, 2022.
    * [PhD thesis](https://era.ed.ac.uk/handle/1842/38806)
 
 * *Challenges in Learning from Behaviour*, invited talk, 
